@@ -1,4 +1,4 @@
 # snake-game
-<!--![Snake Game](snake-game.png.png)
+<!--![Snake Game](snake-game.png.png)-->
 
 
